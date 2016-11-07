@@ -1,0 +1,28 @@
+    	//tempList.add(new JList<InfoPanels>());
+    	
+    	/*
+    	ArrayList<InfoPanels> tempInfo = new ArrayList<InfoPanels>();
+    	
+    	tempInfo.add(new InfoPanels(tempScroll, "Because"));
+        tempList.setModel(new AbstractListModel() {
+        	String[] values = new String[] {"asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf"};
+        	
+        	public int getSize() {
+        		return tempInfo.size();
+        	}
+        	public InfoPanels getElementAt(int index) {
+        		return tempInfo.get(index);
+        	}
+        }
+        */
+        	
+        //Vector.setModel(new AbstractListModel() {
+		//	String[] values = new String[] {"asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf", "asdf"};
+        	
+        //	public int getSize() {
+        //		return values.length;
+        //	}
+        //	public String getElementAt(int index) {
+        //		return values[index];
+        //	}
+        //});
